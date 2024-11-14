@@ -103,7 +103,7 @@ Left side you can see the HDL files. Right side of the window has worklib and sn
 Worklib is the directory where all the compiled codes are stored while Snapshot will have output of elaboration which in turn goes for simulation .
 
 To perform the function simulation, the following three steps are involved Compilation, Elaboration and Simulation. 
-![WhatsApp Image 2024-11-14 at 13 29 12_6ac0e383](https://github.com/user-attachments/assets/0f2e1f72-1b78-4ed0-9cae-6a595e09f9e0)
+![Screenshot (75)](https://github.com/user-attachments/assets/9e4104e9-eded-4a54-93b7-ae1c61e47e64)
 
 
 ### Fig 6: Nclaunch Window
@@ -129,7 +129,7 @@ i.e Cadence IES command for compile: ncverilog +access+rwc -compile fa.v
 Left side select the file and in Tools : launch verilog compiler with current selection will get enable. Click it to compile the code 
 
 Worklib is the directory where all the compiled codes are stored while Snapshot will have output of elaboration which in turn goes for simulation 
-![Uploading Screenshot (77).png…]()
+
 
 
 ### Fig 7: Compiled database in worklib
